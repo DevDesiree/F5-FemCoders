@@ -1,0 +1,74 @@
+body{
+    text-align: center;
+    margin: 0;
+    background-image: url(./img/fondomadera.jpg);
+}
+
+table {
+    border-collapse: collapse;
+    width: 600px;
+    margin: 0 auto;
+    
+}
+
+table th{
+    padding-bottom: 35px;
+    background-color: green;
+    text-align: center;
+}
+
+td {
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    
+}
+
+
+/* Celda colores fondo */
+.black {background-color: black;}
+.teal {background-color: teal;}
+.blue {background-color: blue;}
+.navy {background-color: navy;}
+.lime {background-color: lime;}
+.white {background-color: white;}
+
+.purple {background-color: purple;}
+.yellow {background-color: yellow;}
+.olive {background-color: olive;}
+.red {background-color: red;}
+.marron {background-color: black;}
+.gray {background-color: gray;}
+
+.fuchsia {background-color: fuchsia;}
+.green {background-color: green;}
+
+h2{
+    font-size: 2em;
+}
+
+.texto-color-span {
+    width: 700px;
+    margin: 0 auto;
+    font-size: 30px;
+}
+
+/* Colores letras */
+
+.spam-black { color: black; }
+.spam-teal { color: teal; }
+.spam-blue { color: blue; }
+.spam-navy { color: navy; }
+.spam-lime { color: lime; }
+.spam-white { color: white; }
+.spam-purple { color: purple; }
+.spam-yellow { color: yellow; }
+.spam-olive { color: olive; }
+.spam-red { color: red; }
+.spam-marron { color: black; }
+.spam-gray { color: gray; }
+.spam-fuchsia { color: fuchsia; }
+.spam-green { color: green; }
+.spam-aqua { color: aqua; }
+.spam-silver { color: silver; }

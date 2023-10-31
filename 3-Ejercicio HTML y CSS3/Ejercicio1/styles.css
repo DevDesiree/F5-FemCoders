@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+    width: 600px;
+    margin: 0 auto;
+}
+
+h2{
+    background-color: grey;
+    padding: 7px; 
+    margin-bottom: 0;
+}
+
+.container-img-p{
+    width: 480px;
+    margin: 0 auto;    
+}
+
+img{
+    float: left;
+}
+
+p{
+    text-align: justify;
+    margin-top: 5px;
+}
+
