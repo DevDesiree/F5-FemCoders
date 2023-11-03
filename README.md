@@ -19,4 +19,4 @@ En este repositorio guardare :
 
 ## Ejercicios del Bootcamp FemCoders :D
 
-- Primeros ejercicios HTML [Alt text]()
+- Primeros ejercicios HTML [Alt text](./HTML%20y%20CSS/2-Ejercicio%20HTML%20babysteps/ejercicio2.md)

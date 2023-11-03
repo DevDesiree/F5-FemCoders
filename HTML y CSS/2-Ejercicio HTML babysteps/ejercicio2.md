@@ -1,5 +1,7 @@
 # Ejercicios 2 HTML Baby steps
 
+Link a los ejercicios resueltos [LINK](index.html)
+
 ## Parte 1
 Se facilita un documento que hay que clonar.
 ![Alt text](./img-archivo-md/parte1.png)
@@ -47,3 +49,5 @@ Dentro de la tabla, he utilizado la etiqueta `<ol>` con atributos personalizados
 
 ---
 ---
+## Resultado del ejercicio resuelto
+![Resultado](Resultado.png)
