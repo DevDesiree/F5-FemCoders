@@ -22,6 +22,7 @@ La estructura básica que he usado en página web HTML incluye las siguientes pa
   - `<section>`: Define una sección temática de contenido.
   - `<h1>`, `<h2>`, etc.: Encabezados que indican la jerarquía del contenido.
   - `<p>`: Párrafos de texto.
+  - `<br>`: Utilizada para insertar un salto de línea en el texto. No tiene atributos, solo se usa como un elemento de autocierra.
   - `<strong>`: Texto en negrita para enfatizar.
   - `<cite>`: Citas o referencias.
   - `<blockquote>`: Citas o bloques de texto destacados.

@@ -50,6 +50,10 @@ HTML continúa evolucionando, y los estándares se mantienen a través del traba
 
 - `<p>`: Párrafos de texto.
 
+- `<br>`: Utilizada para insertar un salto de línea en el texto. No tiene atributos, solo se usa como un elemento de autocierra.
+
+- `<hr>`: Utilizada para crear una línea horizontal y no tiene atributos.
+
 - `<strong>`: Texto en negrita para enfatizar.
 
 - `<em>`: Texto en cursiva para enfatizar.
