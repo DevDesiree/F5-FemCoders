@@ -31,3 +31,35 @@ p{
     margin-top: 5px;
 }
 
+/* Dia 3 MC Diseño responsive y Adaptative. Agregar para probar los cambios. */
+
+
+/* Comentado para no estropear el ejercicio original. */
+
+/* @media only screen and (min-width: 768px) {
+    body {
+      background-color: beige;
+    }
+    .container{
+        width: 900px;
+        margin: 0 auto;
+    }
+    .container-img-p{
+        width: 600px;
+        margin: 0 auto;    
+    }
+  } */
+
+@media only screen and (max-width: 768px) {
+    body {
+      background-color: lightblue;
+    }
+    .container{
+        width: 400px;
+        margin: 0 auto;
+    }
+    .container-img-p{
+        width: 350px;
+        margin: 0 auto;    
+    }
+  }
