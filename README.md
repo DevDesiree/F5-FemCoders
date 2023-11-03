@@ -21,8 +21,8 @@ En este repositorio guardare :
 ## Ejercicios del Bootcamp FemCoders :D
 
 - Ejercicios 1ª Semana
-    - Ejercicios HTML : [Ejercicio](./HTML%20y%20CSS/2-Ejercicio%20HTML%20babysteps/ejercicio2.md)
-    - Ejercicios HTML y CSS : 
+    - Ejercicios HTML : [Ejercicio](./HTML%20y%20CSS/Ejercicios%20HTML-CSS/2-Ejercicio%20HTML%20babysteps/ejercicio2.md)
+    - Ejercicios HTML y CSS : [Ejercicio](./HTML%20y%20CSS/Ejercicios%20HTML-CSS/3-Ejercicio%20HTML%20y%20CSS3/ejercicio3.md)
     - Ejercicios CSS Grid - Utilizado en : [CSSGridGarden](https://cssgridgarden.com/#es)
     - Ejercicio CSS Flexbox - Utilizado en : [Flexboxfroggy](https://flexboxfroggy.com/#es)
     - Ejercicios Responsive-Adaptative Design : 
