@@ -63,3 +63,22 @@ p{
         margin: 0 auto;    
     }
   }
+
+  @media only screen and (max-width: 400px) {
+    body {
+      background-color: rgb(163, 140, 98);
+      margin: 10px 10px 10px 10px;
+    }
+    .container{
+        width: 100%;
+        margin: 0 auto;
+    }
+    .container-img-p{
+        width: 100%;
+        margin: 0 auto;    
+    }
+    p{
+        text-align: left;
+        margin-top: 5px;
+    }
+  }
