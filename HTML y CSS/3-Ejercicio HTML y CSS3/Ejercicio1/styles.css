@@ -50,21 +50,21 @@ p{
     }
   } */
 
-@media only screen and (max-width: 768px) {
+@media only screen and (min-width: 400px) and (max-width : 768px) {
     body {
       background-color: lightblue;
     }
-    .container{
+    .container {
         width: 400px;
         margin: 0 auto;
     }
-    .container-img-p{
+    .container-img-p {
         width: 350px;
         margin: 0 auto;    
     }
   }
 
-  @media only screen and (max-width: 400px) {
+@media only screen and (max-width: 400px) {
     body {
       background-color: rgb(163, 140, 98);
       margin: 10px 10px 10px 10px;
@@ -77,7 +77,7 @@ p{
         width: 100%;
         margin: 0 auto;    
     }
-    p{
+    p {
         text-align: left;
         margin-top: 5px;
     }
