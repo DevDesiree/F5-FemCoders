@@ -1,8 +1,8 @@
 # Bootcamp Factoria F5
 
 En este repositorio guardare : 
-- Resumenes de MasterClass (Sin recursos externos) 
-- Ejercicios del Bootcamp Factoría F5.
+- Resumenes de MasterClass
+- Ejercicios del Bootcamp Factoría F5 FemCoders.
 
 ## Resumenes y Herramientas utilizadas
 
@@ -15,7 +15,9 @@ En este repositorio guardare :
 - CSS - Grid :
 - CSS - Flexbox : 
 - CSS - Responsive y Adaptative :
-- Git / GitHub :
+- Git / GitHub / GitFlow :
+- Fases de un Proyecto digital & Agile :
+- Metodologia SCRUM : 
 
 
 ## Ejercicios del Bootcamp FemCoders :D
@@ -29,9 +31,15 @@ En este repositorio guardare :
 
 - Ejercicios 2ª Semana
 
-        **InProgress**
+    - Presentacion de Proyecto Grupal - P1 The Crew [Enlace](https://github.com/DevDesiree/P1-LasIdealistas)
+
+
+    **InProgress**
 
 
 ---
 ---
+
+
+
 *Se ha utilizado esta guía para la realización y diseño de este Markdown y de todas las demás : https://www.markdownguide.org/cheat-sheet*
