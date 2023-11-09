@@ -7,16 +7,17 @@ En este repositorio guardare :
 ## Resumenes y Herramientas utilizadas
 
 - CMD : [Terminal o Consola](./Teoria/Terminal.md)
-- Figma :
-- Trello :
+- Figma : [Figma](./Teoria/Figma.md)
+- Trello : [Trello](./Teoria/Trello.md)
 - HTML : [HTML.md](./Teoria/HTML.md)
 - HTML DOM : [HTMLDOM.md](./Teoria/HTMLDOM.md)
 - CSS : [CSS.md](./Teoria/CSS.md)
-- CSS - Grid :
-- CSS - Flexbox : 
+- CSS - Grid : [CSS Grid](./Teoria/CSS-GRID.md)
+- CSS - Flexbox : [CSS Flex](./Teoria/CSS-FLEX.md)
 - CSS - Responsive y Adaptative :
 - Git / GitHub / GitFlow :
-- Fases de un Proyecto digital & Agile :
+- Fases de un Proyecto digital :
+- Metodologia Agile :
 - Metodologia SCRUM : 
 
 
