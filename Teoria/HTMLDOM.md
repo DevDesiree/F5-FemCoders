@@ -20,4 +20,7 @@ Algunas de las tareas comunes que puedes realizar con el HTML DOM incluyen:
 
 El HTML DOM es esencial en el desarrollo web, ya que permite la creación de páginas web interactivas y dinámicas al permitir a los desarrolladores modificar el contenido y la apariencia de una página en respuesta a la interacción del usuario. En resumen, el HTML DOM es una poderosa herramienta que facilita la interacción entre el código JavaScript y la estructura de una página web HTML, lo que permite la creación de experiencias web ricas y dinámicas.
 
+---
+---
 
+[🏠 Volver al Home](../README.md)
