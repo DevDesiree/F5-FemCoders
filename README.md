@@ -6,12 +6,12 @@ En este repositorio guardare :
 
 ## Resumenes y Herramientas utilizadas
 
-- CMD : 
+- CMD : [Terminal o Consola](./Teoria/Terminal.md)
 - Figma :
 - Trello :
-- HTML : [HTML.md](./HTML%20y%20CSS/HTML.md)
-- HTML DOM : [HTMLDOM.md](./HTML%20y%20CSS/HTMLDOM.md)
-- CSS : [CSS.md](./HTML%20y%20CSS/CSS.md)
+- HTML : [HTML.md](./Teoria/HTML.md)
+- HTML DOM : [HTMLDOM.md](./Teoria/HTMLDOM.md)
+- CSS : [CSS.md](./Teoria/CSS.md)
 - CSS - Grid :
 - CSS - Flexbox : 
 - CSS - Responsive y Adaptative :
