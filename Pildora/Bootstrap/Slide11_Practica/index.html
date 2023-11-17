@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="parte1">
+        <h1>Parte 1</h1>
+        <label for="bootstrapClasses">Selecciona una clase de Bootstrap:</label>
+        <select id="bootstrapClasses" class="form-control-lg">
+            <option>btn btn-primary</option>
+            <option>bg-primary text-light</option>
+            <option>bg-primary text-white</option>
+            <option>btn btn-secondary</option>
+            <option>bg-secondary text-light</option>
+            <option>bg-secondary text-white</option>
+            <option>btn btn-success</option>
+            <option>bg-success text-white</option>
+            <option>btn btn-danger</option>
+            <option>bg-danger text-white</option>
+            <option>btn btn-warning</option>
+            <option>bg-warning text-dark</option>
+            <option>btn btn-info</option>
+            <option>bg-info text-white</option>
+            <option>btn btn-light</option>
+            <option>bg-light text-dark</option>
+            <option>btn btn-dark</option>
+            <option>bg-dark text-white</option>
+            <option>rounded</option>
+            <option>rounded-circle</option>
+            <option>rounded-pill</option>
+            <option>font-weight-bold</option>
+            <option>font-italic</option>
+            <option>fw-bold</option>
+            <option>fst-italic</option>
+            <option>text-uppercase</option>
+            <option>text-lowercase</option>
+            <option>text-capitalize</option>
+            <option>text-center</option>
+            <option>text-end</option>
+            <option>text-nowrap</option>
+            <option>d-flex</option>
+            <option>justify-content-center</option>
+            <option>align-items-center</option>
+            <option>m-2</option>
+            <option>p-2</option>
+            <option>mx-auto</option>
+            <option>my-3</option>
+            <option>py-3</option>
+            <option>text-muted</option>
+            <option>border</option>
+            <option>border-2</option>
+            <option>border-primary</option>
+            <option>border-secondary</option>
+            <option>border-success</option>
+            <option>border-danger</option>
+            <option>border-warning</option>
+            <option>border-info</option>
+            <option>border-light</option>
+            <option>border-dark</option>
+            <option>border-rounded</option>
+            <option>border-circle</option>
+            <option>border-pill</option>
+            <option>border-top</option>
+            <option>border-bottom</option>
+            <option>border-start</option>
+            <option>border-end</option>
+
+        </select>
+
+        <div id="miContenedor" class="mt-4 p-3 border">
+            <p id="miTexto">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam maiores sequi impedit tenetur voluptatibus omnis? Repellendus obcaecati, consequuntur nam ipsa, nulla dolore tempore illum exercitationem consequatur vitae ipsam! Corrupti, quisquam!</p>
+        </div>
+    </div>
+    <div id="separator"></div>
+
+    <div id="parte2">
+        <h2>Parte 2</h2>
+        <label for="bootstrapClasses2">Selecciona varias de Bootstrap:</label>
+        <select id="bootstrapClasses2" class="form-control-lg">
+            <option>btn btn-primary</option>
+            <option>bg-primary text-light</option>
+            <option>bg-primary text-white</option>
+            <option>btn btn-secondary</option>
+            <option>bg-secondary text-light</option>
+            <option>bg-secondary text-white</option>
+            <option>btn btn-success</option>
+            <option>bg-success text-white</option>
+            <option>btn btn-danger</option>
+            <option>bg-danger text-white</option>
+            <option>btn btn-warning</option>
+            <option>bg-warning text-dark</option>
+            <option>btn btn-info</option>
+            <option>bg-info text-white</option>
+            <option>btn btn-light</option>
+            <option>bg-light text-dark</option>
+            <option>btn btn-dark</option>
+            <option>bg-dark text-white</option>
+            <option>rounded</option>
+            <option>rounded-circle</option>
+            <option>rounded-pill</option>
+            <option>font-weight-bold</option>
+            <option>font-italic</option>
+            <option>fw-bold</option>
+            <option>fst-italic</option>
+            <option>text-uppercase</option>
+            <option>text-lowercase</option>
+            <option>text-capitalize</option>
+            <option>text-center</option>
+            <option>text-end</option>
+            <option>text-nowrap</option>
+            <option>d-flex</option>
+            <option>justify-content-center</option>
+            <option>align-items-center</option>
+            <option>m-2</option>
+            <option>p-2</option>
+            <option>mx-auto</option>
+            <option>my-3</option>
+            <option>py-3</option>
+            <option>text-muted</option>
+            <option>border</option>
+            <option>border-2</option>
+            <option>border-primary</option>
+            <option>border-secondary</option>
+            <option>border-success</option>
+            <option>border-danger</option>
+            <option>border-warning</option>
+            <option>border-info</option>
+            <option>border-light</option>
+            <option>border-dark</option>
+            <option>border-rounded</option>
+            <option>border-circle</option>
+            <option>border-pill</option>
+            <option>border-top</option>
+            <option>border-bottom</option>
+            <option>border-start</option>
+            <option>border-end</option>
+
+        </select>
+        
+        <div id="miContenedor2" class="mt-4 p-3 border">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe dolore dicta, delectus laborum libero dolorum temporibus nemo nostrum rerum eos corrupti magni soluta natus corporis, maxime id quibusdam mollitia nisi!</p>
+
+        </div>
+
+
+        <button id="btn_mas">+</button>
+        <button id="btn_menos">-</button>
+        <div id="clasesAgregadas" class="mt-4">
+            <p>Clases Agregadas:</p>
+            <ul id="listaClases"></ul>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
+
+<!-- LINK : https://codepen.io/iDeissy/pen/XWOzweq -->
