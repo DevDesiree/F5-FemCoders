@@ -46,7 +46,7 @@ En este repositorio guardare :
     - Ejercicio Juego Algoritmia : [Enlace](https://blockly.games/maze)
     - Ejercicio cities in the world : 
 
-            **InProgress**
+
 
 
 ---
