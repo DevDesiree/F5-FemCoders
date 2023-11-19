@@ -1,0 +1,15 @@
+{
+  "name": "cities-in-the-world",
+  "version": "1.0.0",
+  "description": "Utilizando Bootstrap, material o Taildwind crea tu web app partiendo del sketch (Cities in the world) que encontrarás en el enlace.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}

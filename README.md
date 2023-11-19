@@ -20,6 +20,10 @@ En este repositorio guardare :
 - Metodologia Agile :
 - Metodologia SCRUM : 
 - Preprocesadores SaSS : 
+- Introduccion a JS : 
+- Introduccion a JS 2 :
+- DOM Manipulation : 
+- Json / LocalStorage : 
 
 
 ## Ejercicios del Bootcamp FemCoders :D
@@ -44,8 +48,8 @@ En este repositorio guardare :
     - Presentacion de Proyecto Individual - P2 Replica Web [Enlace](https://github.com/DevDesiree/P2-ReplicaWeb)
     - Ejercicio Ruta Investigacion JS : [Enlace](./EjerciciosF5/JS%20(JavaScript)/investigacion-js.md)
     - Ejercicio Juego Algoritmia : [Enlace](https://blockly.games/maze)
-    - Ejercicio cities in the world : 
-
+    - Pildora Boostrap : [Enlace](./Pildora/Bootstrap/)
+    - Ejercicio cities in the world : [Enlace](./EjerciciosF5/Cities-in-the-world/) o [Enlace a Vercel]()
 
 
 

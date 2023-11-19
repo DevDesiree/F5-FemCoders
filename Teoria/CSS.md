@@ -171,7 +171,33 @@ selector {
 - `user-select`: Controla si el texto es seleccionable por el usuario.
   - Valores: "auto", "none", "text", "all".
 
+
+
+## Variables en CSS
+
+En CSS puro (sin preprocesadores como SASS o LESS), no hay soporte nativo para variables como las conocemos en lenguajes de programación. Sin embargo, CSS ha introducido la capacidad de utilizar variables personalizadas mediante la notación --nombre-variable. Esta característica se conoce como "Variables CSS" o "CSS Custom Properties". Aquí tienes una descripción en formato Markdown:
+
+En CSS, las variables son conocidas como "CSS Custom Properties". Estas permiten definir valores reutilizables y dinámicamente actualizables en una hoja de estilo. La sintaxis es la siguiente:
+
+```css
+/* Definición de una variable */
+:root {
+  --color-primario: #3498db;
+}
+
+/* Uso de la variable */
+body {
+  background-color: var(--color-primario);
+}
+```
+
+En este ejemplo:
+
+- :root se utiliza para definir las variables a nivel de documento. También puedes definir variables específicas para ciertos elementos.
+- --color-primario es el nombre de la variable.
+- var(--color-primario) se utiliza para acceder al valor de la variable.
+
 ---
 ---
 
-
+[🏠 Volver al Home](../README.md)
