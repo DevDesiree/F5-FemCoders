@@ -19,6 +19,7 @@ En este repositorio guardare :
 - Fases de un Proyecto digital :
 - Metodologia Agile :
 - Metodologia SCRUM : 
+- Preprocesadores SaSS : 
 
 
 ## Ejercicios del Bootcamp FemCoders :D
@@ -33,6 +34,8 @@ En este repositorio guardare :
 - Ejercicios 2ª Semana
 
     - Presentacion de Proyecto Grupal - P1 The Crew [Enlace](https://github.com/DevDesiree/P1-LasIdealistas)
+    - Ejercicios SaSS : 
+    - Presentacion de Proyecto Individual - P2 Replica Web
 
 
     **InProgress**
