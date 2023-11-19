@@ -8,7 +8,7 @@ $TextColorThree: blue;
 
 @mixin titleSectionStyles {
     h3 {
-        font-size: 18px;
+        font-size: 19px;
         margin-bottom: 8px;
     }
 }
@@ -18,7 +18,6 @@ $TextColorThree: blue;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    color: red;
     #section-one {
         color:$TextColorOne
     }
