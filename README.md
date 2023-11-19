@@ -46,7 +46,7 @@ En este repositorio guardare :
 - Ejercicios 3º Semana
 
     - Presentacion de Proyecto Individual - P2 Replica Web [Enlace](https://github.com/DevDesiree/P2-ReplicaWeb)
-    - Ejercicio Ruta Investigacion JS : [Enlace](./EjerciciosF5/JS%20(JavaScript)/investigacion-js.md)
+    - Ejercicio Ruta Investigacion JS : [Enlace](./EjerciciosF5/JS(JavaScript)/Investigacion-js.md)
     - Ejercicio Juego Algoritmia : [Enlace](https://blockly.games/maze)
     - Pildora Boostrap : [Enlace](./Pildora/Bootstrap/)
     - Ejercicio cities in the world : [Enlace](./EjerciciosF5/Cities-in-the-world/) o [Enlace a Vercel]()

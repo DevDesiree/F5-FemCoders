@@ -1,30 +1,3 @@
-CONCEPTOS BÁSICOS:
-¿Qué es la programación y cuál es su propósito?
-Define algoritmo y da un ejemplo sencillo.
-¿Qué es una variable y cómo se utiliza en programación?
-Explica la diferencia entre JavaScript, HTML y CSS.
-CONCEPTOS ESPECÍFICOS
-Define variables en JavaScript y menciona los tipos de datos básicos.
-¿Qué es una función en JavaScript y cómo se declara?
-Explica el concepto de "scope" en JavaScript.
-Explica qué es el asincronismo
-ESTRUCTURAS DE CONTROL
-¿Qué son las estructuras de control en programación?
-Describe la diferencia entre if, else if y else.
-Explica el bucle for y proporciona un ejemplo.
-MANIPULACIÓN DEL DOM
-¿Qué es el DOM y cómo se relaciona con HTML
-¿Por qué el DOM es importante en el desarrollo web?
-¿Cómo se seleccionan elementos en el DOM con JavaScript?
-Explica cómo se añaden y eliminan elementos del DOM.
-EVENTOS
-¿Qué son los eventos en el contexto de desarrollo web?
-Proporciona ejemplos de eventos comunes.
-FETCH - AJAX
-Define AJAX y explica su importancia en el desarrollo web.
-¿Qué es la Fetch API y para qué se utiliza?
-FRAMEWORKS Y LIBRERÍAS
-Menciona algunos frameworks y bibliotecas populares de JavaScript y sus usos.
 
 ### CONCEPTOS BÁSICOS:
 
@@ -46,7 +19,7 @@ Menciona algunos frameworks y bibliotecas populares de JavaScript y sus usos.
 ### CONCEPTOS ESPECÍFICOS:
 
 5. **¿Define variables en JavaScript y menciona los tipos de datos básicos?**
-   - En JavaScript, las variables se declaran con `var`, `let` o `const`. Tipos de datos básicos incluyen números, cadenas, booleanos, objetos y arreglos.
+   - En JavaScript, las variables se declaran con `var`(Se usaba antes), `let` o `const`. Tipos de datos básicos incluyen números, cadenas, booleanos, objetos y arreglos.
 
 6. **¿Qué es una función en JavaScript y cómo se declara?**
    - Una función en JavaScript es un conjunto de instrucciones reutilizables. Se declara con la palabra clave `function`. Ejemplo: `function sumar(a, b) { return a + b; }`.
