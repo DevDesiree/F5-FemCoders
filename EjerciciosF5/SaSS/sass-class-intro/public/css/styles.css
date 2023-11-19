@@ -1,0 +1,33 @@
+main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  color: red;
+}
+main #section-one {
+  color: darkorchid;
+}
+main #section-two {
+  color: green;
+}
+main #section-three {
+  color: blue;
+}
+
+body {
+  background-color: burlywood;
+}
+body header {
+  color: crimson;
+  width: 100%;
+}
+body header h1 {
+  font-style: italic;
+  text-align: center;
+}
+body main h3 {
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+/*# sourceMappingURL=styles.css.map */

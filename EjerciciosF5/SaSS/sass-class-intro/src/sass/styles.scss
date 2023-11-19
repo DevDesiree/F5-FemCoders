@@ -1,0 +1,19 @@
+@use 'sections';
+@import 'variables';
+
+body{
+    background-color: $backgroundColor;
+
+    header{
+        color: $titleColor;
+        width: 100%;
+        h1{
+            font-style: italic;
+            text-align: center;
+        }
+    }
+
+    main{
+        @include titleSectionStyles;
+    }
+}

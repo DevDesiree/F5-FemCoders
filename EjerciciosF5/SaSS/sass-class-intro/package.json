@@ -1,0 +1,23 @@
+{
+  "name": "sass-class-intro",
+  "version": "1.0.0",
+  "description": "This repository was created to teach the basics of sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-watcher": "npx sass --watch src/sass/styles.scss:public/css/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soymariavillaverde/sass-class-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soymariavillaverde/sass-class-intro/issues"
+  },
+  "homepage": "https://github.com/soymariavillaverde/sass-class-intro#readme",
+  "devDependencies": {
+    "sass": "^1.62.1"
+  }
+}

@@ -1,0 +1,31 @@
+$backgroundColor: burlywood;
+$titleColor: crimson;
+$TextColorOne: darkorchid;
+$TextColortwo: green;
+$TextColorThree: blue;
+
+
+
+@mixin titleSectionStyles {
+    h3 {
+        font-size: 18px;
+        margin-bottom: 8px;
+    }
+}
+
+
+@mixin mainContent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: red;
+    #section-one {
+        color:$TextColorOne
+    }
+    #section-two {
+        color:$TextColortwo
+    }
+    #section-three {
+        color:$TextColorThree
+    }
+}
