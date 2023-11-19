@@ -19,7 +19,36 @@
 ### CONCEPTOS ESPECÍFICOS:
 
 5. **¿Define variables en JavaScript y menciona los tipos de datos básicos?**
-   - En JavaScript, las variables se declaran con `var`(Se usaba antes), `let` o `const`. Tipos de datos básicos incluyen números, cadenas, booleanos, objetos y arreglos.
+   - En JavaScript, las variables se declaran con `var`(Se usaba antes), `let` o `const`. Tipos de datos básicos incluyen números (enteros, flotantes..), cadenas (strings con texto o número), booleanos (True o False), objetos y arreglos (objetos, arrays..). Ejemplos:
+
+        - Números:
+            ```
+            let entero = 42;
+            let flotante = 3.14;
+            ```
+        - Cadenas:
+            ```
+            let cadena_texto = "Hola, mundo!";
+            let cadena_numero = '123';
+            ```
+        - Booleanos: 
+            ```
+            let verdadero = true;
+            let falso = false;
+            ```
+        - Objetos:
+            ```
+            let persona = {
+            nombre: "Pepe",
+            edad: 25,
+            esEstudiante: true
+            };
+            ```
+        - Arreglos(Arrays):
+            ```
+            let numeros = [1, 2, 3, 4, 5];
+            let frutas = ["manzana", "banana", "uva"];
+            ```
 
 6. **¿Qué es una función en JavaScript y cómo se declara?**
    - Una función en JavaScript es un conjunto de instrucciones reutilizables. Se declara con la palabra clave `function`. Ejemplo: `function sumar(a, b) { return a + b; }`.
