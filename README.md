@@ -34,11 +34,19 @@ En este repositorio guardare :
 - Ejercicios 2ª Semana
 
     - Presentacion de Proyecto Grupal - P1 The Crew [Enlace](https://github.com/DevDesiree/P1-LasIdealistas)
-    - Ejercicios SaSS : 
-    - Presentacion de Proyecto Individual - P2 Replica Web
+    - Ejercicio Git/GitHub : [Enlace](https://github.com/DevDesiree)
+    - Ejercicio de Git/GitHub Overview : [Enlace](https://github.com/DevDesiree/DevDesiree/blob/main/README.md)
+    - Ejercicios SaSS : [Enlace](./EjerciciosF5/SaSS/sass-class-intro/)
+    
 
+- Ejercicios 3º Semana
 
-    **InProgress**
+    - Presentacion de Proyecto Individual - P2 Replica Web [Enlace](https://github.com/DevDesiree/P2-ReplicaWeb)
+    - Ejercicio Ruta Investigacion JS : [Enlace](./EjerciciosF5/JS%20(JavaScript)/investigacion-js.md)
+    - Ejercicio Juego Algoritmia : [Enlace](https://blockly.games/maze)
+    - Ejercicio cities in the world : 
+
+            **InProgress**
 
 
 ---
