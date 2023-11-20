@@ -90,7 +90,7 @@
     - Los eventos son acciones del usuario o del navegador que pueden ser detectadas y manejadas en JavaScript, como hacer clic o cargar una página.
 
 17. **¿Proporciona ejemplos de eventos comunes?**
-    - Ejemplos de eventos incluyen `click`, `submit`, `mouseover`, y `keydown`.
+    - Ejemplos de eventos incluyen `click`, `scroll` `submit`, `mouseover`, y `keydown`.
 
 ### FETCH - AJAX:
 

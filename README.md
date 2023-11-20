@@ -51,7 +51,10 @@ En este repositorio guardare :
     - Pildora Boostrap : [Enlace](./Pildora/Bootstrap/)
     - Ejercicio cities in the world : [Enlace](./EjerciciosF5/Cities-in-the-world/) o [Enlace a Vercel]()
 
+- Ejercicios 4º Semana
 
+    - Ejercicios T5 Primeros pasos con JS [Enlace](./EjerciciosF5/JS(JavaScript)/T5-Primeros-pasos-js)
+    
 
 ---
 ---
