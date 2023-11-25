@@ -1,4 +1,4 @@
-// Punto 1
+// (1) Create the variables and write them in the browser
 let number1 = 28;
 let number2 = 7;
 let greeting = "Hola";
@@ -17,10 +17,10 @@ console.log(`La Palabra es : ${greeting}  y el tipo es : ${typeof(greeting)}`);
 document.write(`La Palabra es : ${namePerson}  y el tipo es : ${typeof(namePerson)} <br>`)
 console.log(`La Palabra es : ${namePerson}  y el tipo es : ${typeof(namePerson)}`);
 
-document.write(`El Booleano es : ${boolean}  y el tipo es : ${typeof(boolean)} <br> <br>`);
+document.write(`El Booleano es : ${boolean} y el tipo es : ${typeof(boolean)} <br> <br>`);
 console.log(`El Booleano es : ${boolean}  y el tipo es : ${typeof(boolean)}`);
 
-// Punto 2
+// (2) Variable Operations with numbers
 let sum = number1 + number2;
 let subtraction = number1 - number2;
 let multiplication = number1 * number2;
@@ -38,6 +38,6 @@ console.log(`La Multiplicacion de  de ${number1} y ${number2} es ${multiplicatio
 document.write(`La Division de ${number1} y ${number2} es ${division} <br> <br>`);
 console.log(`La Division de ${number1} y ${number2} es ${division}`);
 
-// Punto 3
+// (3) Concatenate the variables
 document.write(`${greeting} ${namePerson}, que tal!`);
 console.log(`${greeting} ${namePerson}, que tal!`);

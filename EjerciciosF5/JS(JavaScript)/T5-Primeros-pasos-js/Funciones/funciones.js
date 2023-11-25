@@ -1,22 +1,23 @@
 
-// Punto 1
-function saludar(namePerson){
+// (1) Function for greeting with parameters
+function greet(namePerson){
     document.write(`Hola, ${namePerson} <br> <br>`);
     console.log(`Hola, ${namePerson}`);
 }
 
-saludar("Paco");
+greet("Paco");
 
-// Punto 2
-function sum(num1, num2){
-    let suma = num1 + num2;
-    document.write(`La suma de ${num1} + ${num2} es ${suma} <br> <br>`)
-    console.log(`La suma de ${num1} + ${num2} es ${suma}`);
+
+// (2) Function sum with 2 parameters
+function getSum(num1, num2){
+    let sum = num1 + num2;
+    document.write(`La suma de ${num1} + ${num2} es ${sum} <br> <br>`)
+    console.log(`La suma de ${num1} + ${num2} es ${sum}`);
 }
 
-sum(5,3);
+getSum(5,3);
 
-// Punto 3
+// (3) Function Pair - Odd
 function pairOdd(num){
     if (num % 2 == 0){
         document.write(`El número ${num} es par <br>`)
