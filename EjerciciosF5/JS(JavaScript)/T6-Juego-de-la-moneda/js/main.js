@@ -3,6 +3,7 @@ const resetBtn = document.getElementById("reset_btn");
 const headImage = document.getElementById("heads");
 const tailImage = document.getElementById("tails");
 const mainCoin = document.getElementById("main_coin");
+const resultCoin = document.getElementById("result_coin")
 const headCountElement = document.getElementById("count_heads")
 const tailCountElement = document.getElementById("count_tails")
 
@@ -23,17 +24,19 @@ function lanzarMoneda() {
         const result = Math.round(Math.random()) + 1;
         if (result == 1) {
             headCount += 1;
+            resultCoin.textContent = "Cara ⭐";
             requestAnimationFrame(() => {
                 headImage.style.display = "block";
 
             });
         } else {
             tailCount += 1;
+            resultCoin.textContent = "Cruz 💲";
             requestAnimationFrame(() => {
                 tailImage.style.display = "block";
             });
         }
-        updateCounts()
+        updateCounts();
     });
 
 }
@@ -41,7 +44,7 @@ function lanzarMoneda() {
 function resetCount(){
     headCount = 0;
     tailCount = 0;
-
+    resultCoin.textContent = "";
     updateCounts();
 
 

@@ -50,7 +50,7 @@ h1{
 
 #container_coin {
     margin-top: 30px;
-    height: 100px;
+    height: 180px;
 }
 
 .coins {
@@ -88,8 +88,19 @@ img {
 
 }
 
+
+.container_result_coin{
+    font-size: 29px;
+    padding: 0 20px 0 20px;
+    background-color: rgb(181, 150, 209);
+    border-radius: 10px;
+    box-shadow: 2px 2px black;
+    margin-top: 20px;
+
+}
+
 #container_count {
-    margin-top: 100px;
+    margin-top: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
