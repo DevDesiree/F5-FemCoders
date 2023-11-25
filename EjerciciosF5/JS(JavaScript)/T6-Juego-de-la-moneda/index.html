@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juego de la Moneda JS</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    <main>
+        <section id="container_game">
+            <h1>Juego de la Moneda JS</h1>
+            <div id="container_buttons">
+                <button id="flip_btn">GIRAR</button>
+                <button id="reset_btn">RESET</button>
+            </div>
+            <div id="container_coin">
+                <div id="main_coin" class="coins">
+                    <img src="./img/principal.svg" alt="Moneda Principal">
+                </div>
+                <div id="heads" class="coins">
+                    <img src="./img/Cara.svg" alt="Cara">
+                </div>
+                <div id="tails" class="coins">
+                    <img src="./img/Cruz.svg" alt="Cruz">
+                </div>
+            </div>
+
+            <div id="container_count">
+                <h2>Resultados</h2>
+                <div id="coin_results">
+                    <p id="count_heads">Cara: 0</p>
+                    <p id="count_tails">Cruz: 0</p>
+                </div>
+
+            </div>
+        </section>
+
+    </main>
+
+    <script src="./js/main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,113 @@
+body {
+    font-family: 'VT323', monospace;
+    background-image: url(../img/background-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin: 0 auto;
+    overflow-y: hidden;
+}
+
+
+#container_game {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(0, 128, 0, 0.856);
+    padding: 0 20px 20px 20px;
+    width: 50%;
+    margin: auto;
+    border-radius: 30px;
+    box-shadow: 2px 2px black;
+    margin-top: 40px;
+   
+}
+
+h1{
+    font-size: 50px;
+}
+
+#container_buttons>button {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: 'VT323', monospace;
+    font-size: 25px;
+    box-shadow: 2px 2px black;
+    
+}
+
+#flip_btn:hover{
+    background-color: rgb(255, 204, 0)
+
+}
+
+#reset_btn:hover{
+    background-color: rgb(241, 45, 45);
+}
+
+
+#container_coin {
+    margin-top: 30px;
+    height: 100px;
+}
+
+.coins {
+    backface-visibility: hidden;
+    top: 0;
+}
+
+img {
+    width: 180px;
+}
+
+#tails {
+    transform: rotateY(180deg);
+}
+
+#heads {
+    display: none;
+    animation: flip 0.5s forwards;
+}
+
+#tails {
+    display: none;
+    animation: flip 0.5s forwards;
+} 
+
+
+@keyframes flip {
+    from {
+        transform: rotateY(0deg);
+    }
+
+    to {
+        transform: rotateY(1800deg);
+    }
+
+}
+
+#container_count {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 30%;
+    border-radius: 10px;
+    background-color: rgb(181, 150, 209);
+    box-shadow: 1px 1px 5px white;
+    padding: 20px;
+    box-shadow: 2px 2px black;
+}
+
+h2{
+    font-size: 35px;
+    margin: 0 0 20px 0;
+}
+
+#count_heads,
+#count_tails {
+    font-size: 30px;
+    margin: 0;
+}
