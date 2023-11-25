@@ -53,8 +53,8 @@ En este repositorio guardare :
 
 - Ejercicios 4º Semana
 
-    - (**Realizando**)Ejercicios T5 Primeros pasos con JS [Enlace](./EjerciciosF5/JS(JavaScript)/T5-Primeros-pasos-js)
-    
+    - (**Realizando**)Ejercicios T5 Primeros pasos con JS : [Enlace](./EjerciciosF5/JS(JavaScript)/T5-Primeros-pasos-js)
+    - Ejecicios T6 Eventos Juego de la Moneda : [Enlace](https://devdesiree.github.io/Femcoders-T6-CoinGame/) o [Enlace2](https://github.com/DevDesiree/Femcoders-T6-CoinGame)
 
 ---
 ---
