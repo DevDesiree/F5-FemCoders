@@ -17,13 +17,17 @@ En este repositorio guardare :
 - CSS - Responsive y Adaptative :
 - Git / GitHub / GitFlow : [Git/GitHub/GitFlow](./Teoria/Git-GitHub-Flow.md)
 - Fases de un Proyecto digital :
+- Userflow, Workflow, User Jorney y User Story :
 - Metodologia Agile :
 - Metodologia SCRUM : 
 - Preprocesadores SaSS : 
 - Introduccion a JS : 
 - Introduccion a JS 2 :
+- Eventos JS :
 - DOM Manipulation : 
-- Json / LocalStorage : 
+- Testing (Jest) : 
+- JSON : 
+- LocalStorage : 
 
 
 ## Ejercicios del Bootcamp FemCoders :D
@@ -49,12 +53,25 @@ En este repositorio guardare :
     - Ejercicio Ruta Investigacion JS : [Enlace](./EjerciciosF5/JS(JavaScript)/Investigacion-js.md)
     - Ejercicio Juego Algoritmia : [Enlace](https://blockly.games/maze)
     - Pildora Boostrap : [Enlace](./Pildora/Bootstrap/)
-    - (**Realizando**)Ejercicio cities in the world : [Enlace](./EjerciciosF5/Cities-in-the-world/) o [Enlace a Vercel]()
+    - Ejercicio cities in the world : [Enlace](./EjerciciosF5/Cities-in-the-world/) o [Enlace a Vercel]()
 
 - Ejercicios 4º Semana
 
-    - (**Realizando**)Ejercicios T5 Primeros pasos con JS : [Enlace](./EjerciciosF5/JS(JavaScript)/T5-Primeros-pasos-js)
-    - Ejecicios T6 Eventos Juego de la Moneda : [Enlace](https://devdesiree.github.io/Femcoders-T6-CoinGame/) o [Enlace2](https://github.com/DevDesiree/Femcoders-T6-CoinGame)
+    - Ejercicios T5 Primeros pasos con JS : [Enlace](./EjerciciosF5/JS(JavaScript)/T5-Primeros-pasos-js)
+    - Ejercicios T6 Eventos Juego de la Moneda : [Enlace](https://devdesiree.github.io/Femcoders-T6-CoinGame/) o [Enlace2](https://github.com/DevDesiree/Femcoders-T6-CoinGame)
+
+- Ejercicios 5º Semana
+
+    - Presentacion de Proyecto Individual - P3 Calculadora Financiera : [Enlace](https://github.com/DevDesiree/P3-CalculadoraFinanciera)
+
+- Ejercicios 6º Semana
+
+    - Ejercicio Kata Fizzbuzz Jest : [Enlace](./EjerciciosF5/JS(JavaScript)/Testing-Jest)
+
+- Ejercicios 7º Semana
+
+    - Presentacion de Proyecto Grupal - P4 Oh my Fruits! : [Enlace](https://github.com/DevDesiree/P4-OhMyFruits)
+    - Ejercicio API N1 Dad Jokes : [Enlace](./EjerciciosF5/JS(JavaScript)/API-N1-Dad-Jokes)
 
 ---
 ---
