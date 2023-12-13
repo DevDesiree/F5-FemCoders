@@ -28,50 +28,53 @@ En este repositorio guardare :
 - Testing (Jest) : 
 - JSON : 
 - LocalStorage : 
+- Consumo de API's :
+- React :
 
 
 ## Ejercicios del Bootcamp FemCoders :D
 
 - Ejercicios 1ª Semana
-    - Ejercicios HTML : [Ejercicio](./HTML%20y%20CSS/Ejercicios%20HTML-CSS/2-Ejercicio%20HTML%20babysteps/ejercicio2.md)
-    - Ejercicios HTML y CSS : [Ejercicio](./HTML%20y%20CSS/Ejercicios%20HTML-CSS/3-Ejercicio%20HTML%20y%20CSS3/ejercicio3.md)
+    - Ejercicios HTML : [Ejercicios](./HTML%20y%20CSS/Ejercicios%20HTML-CSS/2-Ejercicio%20HTML%20babysteps/ejercicio2.md)
+    - Ejercicios HTML y CSS : [Ejercicios](./HTML%20y%20CSS/Ejercicios%20HTML-CSS/3-Ejercicio%20HTML%20y%20CSS3/ejercicio3.md)
     - Ejercicios CSS Grid - Utilizado en : [CSSGridGarden](https://cssgridgarden.com/#es)
     - Ejercicio CSS Flexbox - Utilizado en : [Flexboxfroggy](https://flexboxfroggy.com/#es)
-    - Ejercicios Responsive-Adaptative Design : [Ejercicio](https://github.com/DevDesiree/F5-FemCoders/blob/0ef1ab798ab67baf88774c26ae1b35bdff255796/HTML%20y%20CSS/Ejercicios%20HTML-CSS/3-Ejercicio%20HTML%20y%20CSS3/Ejercicio1/styles.css#L53)
+    - Ejercicios Responsive-Adaptative Design : [Ejercicios](https://github.com/DevDesiree/F5-FemCoders/blob/0ef1ab798ab67baf88774c26ae1b35bdff255796/HTML%20y%20CSS/Ejercicios%20HTML-CSS/3-Ejercicio%20HTML%20y%20CSS3/Ejercicio1/styles.css#L53)
 
 - Ejercicios 2ª Semana
 
-    - Presentacion de Proyecto Grupal - P1 The Crew [Enlace](https://github.com/DevDesiree/P1-LasIdealistas)
-    - Ejercicio Git/GitHub : [Enlace](https://github.com/DevDesiree)
-    - Ejercicio de Git/GitHub Overview : [Enlace](https://github.com/DevDesiree/DevDesiree/blob/main/README.md)
-    - Ejercicios SaSS : [Enlace](./EjerciciosF5/SaSS/sass-class-intro/)
+    - Presentacion de Proyecto Grupal - P1 The Crew [Enlace Repositorio](https://github.com/DevDesiree/P1-LasIdealistas) o [Despliegue en Vercel](https://p1-las-idealistas.vercel.app/)
+    - Ejercicio Git/GitHub : [Ejercicio](https://github.com/DevDesiree)
+    - Ejercicio de Git/GitHub Overview : [Ejercicio](https://github.com/DevDesiree/DevDesiree/blob/main/README.md)
+    - Ejercicios SaSS : [Ejercicios](./EjerciciosF5/SaSS/sass-class-intro/)
     
 
 - Ejercicios 3º Semana
 
-    - Presentacion de Proyecto Individual - P2 Replica Web [Enlace](https://github.com/DevDesiree/P2-ReplicaWeb)
-    - Ejercicio Ruta Investigacion JS : [Enlace](./EjerciciosF5/JS(JavaScript)/Investigacion-js.md)
-    - Ejercicio Juego Algoritmia : [Enlace](https://blockly.games/maze)
-    - Pildora Boostrap : [Enlace](./Pildora/Bootstrap/)
-    - Ejercicio cities in the world : [Enlace](./EjerciciosF5/Cities-in-the-world/) o [Enlace a Vercel]()
+    - Presentacion de Proyecto Individual - P2 Replica Web [Enlace Repositorio](https://github.com/DevDesiree/P2-ReplicaWeb) o [Despliegue en Vercel](https://p2-replica-web.vercel.app/)
+    - Ejercicio Ruta Investigacion JS : [Ejercicio](./EjerciciosF5/JS(JavaScript)/Investigacion-js.md)
+    - Ejercicio Juego Algoritmia : [Ejercicio](https://blockly.games/maze)
+    - Pildora Boostrap : [Enlace a Pildora](./Pildora/Bootstrap/)
+    - Ejercicio cities in the world : [Enlace Repositorio](./EjerciciosF5/Cities-in-the-world/) o [Despliegue en Github Pages](https://devdesiree.github.io/F5-Cities-in-the-world/)
 
 - Ejercicios 4º Semana
 
-    - Ejercicios T5 Primeros pasos con JS : [Enlace](./EjerciciosF5/JS(JavaScript)/T5-Primeros-pasos-js)
-    - Ejercicios T6 Eventos Juego de la Moneda : [Enlace](https://devdesiree.github.io/Femcoders-T6-CoinGame/) o [Enlace2](https://github.com/DevDesiree/Femcoders-T6-CoinGame)
+    - Ejercicios T5 Primeros pasos con JS : [Ejercicios](./EjerciciosF5/JS(JavaScript)/T5-Primeros-pasos-js)
+    - Ejercicios T6 Eventos Juego de la Moneda : [Enlace Repositorio](https://github.com/DevDesiree/Femcoders-T6-CoinGame) o [Despliegue en Github Pages](https://devdesiree.github.io/Femcoders-T6-CoinGame/)
 
 - Ejercicios 5º Semana
 
-    - Presentacion de Proyecto Individual - P3 Calculadora Financiera : [Enlace](https://github.com/DevDesiree/P3-CalculadoraFinanciera)
+    - Presentacion de Proyecto Individual - P3 Calculadora Financiera : [Enlace Repositorio](https://github.com/DevDesiree/P3-CalculadoraFinanciera) o [Despliegue en Vercel](https://p3-calculadora-financiera.vercel.app/)
 
 - Ejercicios 6º Semana
 
-    - Ejercicio Kata Fizzbuzz Jest : [Enlace](./EjerciciosF5/JS(JavaScript)/Testing-Jest)
+    - Ejercicio Kata Fizzbuzz Jest : [Ejercicio](./EjerciciosF5/JS(JavaScript)/Testing-Jest)
 
 - Ejercicios 7º Semana
 
-    - Presentacion de Proyecto Grupal - P4 Oh my Fruits! : [Enlace](https://github.com/DevDesiree/P4-OhMyFruits)
-    - Ejercicio API N1 Dad Jokes : [Enlace](./EjerciciosF5/JS(JavaScript)/API-N1-Dad-Jokes)
+    - Presentacion de Proyecto Grupal - P4 Oh my Fruits! : [Enlace Repositorio](https://github.com/DevDesiree/P4-OhMyFruits) o [Despliegue en Github Pages](https://devdesiree.github.io/P4-OhMyFruits/)
+
+    - Ejercicio API N1 Dad Jokes : [Ejercicio](./EjerciciosF5/JS(JavaScript)/API-N1-Dad-Jokes)
 
 ---
 ---
