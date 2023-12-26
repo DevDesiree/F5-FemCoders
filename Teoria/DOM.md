@@ -32,23 +32,23 @@ Este modelo permite a los desarrolladores web interactuar con la página de mane
   </ul>
 
   <script>
-    // Crear un nuevo elemento li
+    // Crea un nuevo elemento li
     let nuevaTarea = document.createElement('li');
 
-    // Agregar texto al elemento li
+    // Agrega texto al elemento li
     nuevaTarea.textContent = 'Hacer la compra';
 
-    // Obtener la referencia al elemento ul
+    // Obtiene la referencia al elemento ul
     let listaTareas = document.getElementById('lista-tareas');
 
-    // Agregar el nuevo elemento li a la lista
+    // Agrega el nuevo elemento li a la lista
     listaTareas.appendChild(nuevaTarea);
 
-    // Crear otra tarea
+    // Crea otra tarea
     let otraTarea = document.createElement('li');
     otraTarea.textContent = 'Estudiar para el examen';
 
-    // Agregar la nueva tarea a la lista
+    // Agrega la nueva tarea a la lista
     listaTareas.appendChild(otraTarea);
   </script>
 </body>
