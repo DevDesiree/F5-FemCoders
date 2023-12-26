@@ -17,11 +17,9 @@ En este repositorio guardare :
 - CSS - Responsive y Adaptative :
 - Git / GitHub / GitFlow : [Git/GitHub/GitFlow](./Teoria/Git-GitHub-Flow.md)
 - Fases de un Proyecto digital : [Fases Proyecto Digital](./Teoria/Projecto-Digital.md)
-- Metodologia Agile : 
-- Metodologia SCRUM : 
+- Metodologia Agile y SCRUM : [Metodologia Agile y Scrum](./Teoria/Meto-Agile-SCRUM.md) 
 - Preprocesadores SaSS : 
 - Introduccion a JS : 
-- Introduccion a JS 2 :
 - Eventos JS :
 - DOM Manipulation : 
 - Testing (Jest) : 
