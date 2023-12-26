@@ -16,9 +16,8 @@ En este repositorio guardare :
 - CSS - Flexbox : [CSS Flex](./Teoria/CSS-FLEX.md)
 - CSS - Responsive y Adaptative :
 - Git / GitHub / GitFlow : [Git/GitHub/GitFlow](./Teoria/Git-GitHub-Flow.md)
-- Fases de un Proyecto digital :
-- Userflow, Workflow, User Jorney y User Story :
-- Metodologia Agile :
+- Fases de un Proyecto digital : [Fases Proyecto Digital](./Teoria/Projecto-Digital.md)
+- Metodologia Agile : 
 - Metodologia SCRUM : 
 - Preprocesadores SaSS : 
 - Introduccion a JS : 
@@ -74,7 +73,21 @@ En este repositorio guardare :
 
     - Presentacion de Proyecto Grupal - P4 Oh my Fruits! : [Enlace Repositorio](https://github.com/DevDesiree/P4-OhMyFruits) o [Despliegue en Github Pages](https://devdesiree.github.io/P4-OhMyFruits/)
 
-    - Ejercicio API N1 Dad Jokes : [Ejercicio](./EjerciciosF5/JS(JavaScript)/API-N1-Dad-Jokes)
+    - Ejercicio API N1 Dad Jokes : [Ejercicio](https://github.com/DevDesiree/F5-API_N1_Dad_Jokes) o [Despliegue en Github Pages](https://devdesiree.github.io/F5-API_N1_Dad_Jokes/)
+    
+    - Ejercicio API N2 Github Profile : [Ejercicio](https://github.com/DevDesiree/F5-API_N2_Github_Profile) o [Despliegue en Github Pages](https://devdesiree.github.io/F5-API_N2_Github_Profile/)
+
+- Ejercicios 8º Semana
+
+    - Ejercicio T7 REACT Migración tecnológica : [Enlace Repositorio](https://github.com/DevDesiree/P5-React_MigrationTech)
+
+- Ejercicios 9º, 10º, 11º Semana - (Periodo Vacacional Navidad - Repaso)
+
+    - Retos AdventJS : [Enlace Repositorio](https://github.com/DevDesiree/AdventJS-2023)
+    - Ejercicio API N3 Pokedex : [Enlace Repositorio](https://github.com/DevDesiree/F5-API_N3_Pokedex)
+    - Ejercicio Kata Año Bisiesto : [Enlace Repositorio](https://github.com/DevDesiree/F5-Kata_Anio_Bisiesto)
+    - Katas Codewars : [Enlace Perfil](https://www.codewars.com/users/DevDesiree)
+
 
 ---
 ---
