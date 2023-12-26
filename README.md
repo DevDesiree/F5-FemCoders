@@ -22,7 +22,7 @@ En este repositorio guardare :
 - Introduccion a JS : [Introduccion a JS](./Teoria/JS.md)
 - Eventos JS : [Eventos JS](./Teoria/Eventos-JS.md)
 - DOM Manipulation : [DOM Manipulation](./Teoria/DOM.md)
-- Testing (Jest) : 
+- Testing (Jest) : [Testing / Jest](./Teoria/Testing-Jest.md)
 - JSON : 
 - LocalStorage : 
 - Consumo de API's :
