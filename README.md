@@ -20,7 +20,7 @@ En este repositorio guardare :
 - Metodologia Agile y SCRUM : [Metodologia Agile y Scrum](./Teoria/Meto-Agile-SCRUM.md) 
 - Preprocesadores SaSS : [Preprocesadores SaSS](./Teoria/SASS.MD)
 - Introduccion a JS : [Introduccion a JS](./Teoria/JS.md)
-- Eventos JS :
+- Eventos JS : [Eventos JS](./Teoria/Eventos-JS.md)
 - DOM Manipulation : 
 - Testing (Jest) : 
 - JSON : 
