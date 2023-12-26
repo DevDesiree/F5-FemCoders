@@ -64,7 +64,7 @@ En este ejemplo:
 
 JSON se utiliza para configurar y almacenar datos en diversos contextos, como archivos de configuración, bases de datos y archivos de intercambio de datos.
 
-```json
+```js
 // Configuración de una aplicación
 {
   "idioma": "es",
@@ -77,7 +77,7 @@ JSON se utiliza para configurar y almacenar datos en diversos contextos, como ar
 
 Las respuestas de API a menudo se envían en formato JSON para transmitir datos estructurados entre el servidor y el cliente.
 
-```json
+```js
 // Respuesta de una API de clima
 {
   "ciudad": "Ciudad de Ejemplo",
@@ -90,7 +90,7 @@ Las respuestas de API a menudo se envían en formato JSON para transmitir datos 
 
 En aplicaciones web, JSON es esencial para enviar y recibir datos entre el frontend y el backend.
 
-```json
+```js
 // Datos de un formulario de registro
 {
   "nombre": "Maria",
@@ -103,7 +103,7 @@ En aplicaciones web, JSON es esencial para enviar y recibir datos entre el front
 
 JSON se utiliza para representar objetos en JavaScript, facilitando la comunicación y el intercambio de datos entre diferentes partes de una aplicación.
 
-```json
+```js
 // Objeto JavaScript representado en JSON
 {
   "tipo": "objeto",
@@ -138,7 +138,7 @@ console.log(jsonPersona);
 
 ### 2 - JSON.parse() - Para convertir una cadena JSON a un objeto JavaScript:
 
-```json
+```js
 const jsonPersona =
 {"nombre":"Juan",
 "edad":30,
