@@ -19,7 +19,7 @@ En este repositorio guardare :
 - Fases de un Proyecto digital : [Fases Proyecto Digital](./Teoria/Projecto-Digital.md)
 - Metodologia Agile y SCRUM : [Metodologia Agile y Scrum](./Teoria/Meto-Agile-SCRUM.md) 
 - Preprocesadores SaSS : [Preprocesadores SaSS](./Teoria/SASS.MD)
-- Introduccion a JS : 
+- Introduccion a JS : [Introduccion a JS](./Teoria/JS.md)
 - Eventos JS :
 - DOM Manipulation : 
 - Testing (Jest) : 
