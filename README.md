@@ -24,7 +24,7 @@ En este repositorio guardare :
 - DOM Manipulation : [DOM Manipulation](./Teoria/DOM.md)
 - Testing (Jest) : [Testing / Jest](./Teoria/Testing-Jest.md)
 - JSON : [JSON](./Teoria/JSON.md)
-- LocalStorage : 
+- LocalStorage : [LocalStorage](./Teoria/LocalStorage.md)
 - Consumo de API's :
 - React :
 
