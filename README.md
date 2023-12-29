@@ -25,6 +25,7 @@ En este repositorio guardare :
 - Testing (Jest) : [Testing / Jest](./Teoria/Testing-Jest.md)
 - JSON : [JSON](./Teoria/JSON.md)
 - LocalStorage : [LocalStorage](./Teoria/LocalStorage.md)
+- Async / Await y Promesas : 
 - Consumo de API's :
 - React :
 
@@ -82,7 +83,7 @@ En este repositorio guardare :
 - Ejercicios 9º, 10º, 11º Semana - (Periodo Vacacional Navidad - Repaso)
 
     - Retos AdventJS : [Enlace Repositorio](https://github.com/DevDesiree/AdventJS-2023)
-    - Ejercicio API N3 Pokedex : [Enlace Repositorio](https://github.com/DevDesiree/F5-API_N3_Pokedex)
+    - Ejercicio API N3 Pokedex : [Enlace Repositorio](https://github.com/DevDesiree/F5-API_N3_Pokedex) o [Despliegue en Github Pages](https://devdesiree.github.io/F5-API_N3_Pokedex/)
     - Ejercicio Kata Año Bisiesto : [Enlace Repositorio](https://github.com/DevDesiree/F5-Kata_Anio_Bisiesto)
     - Katas Codewars : [Enlace Perfil](https://www.codewars.com/users/DevDesiree)
 
