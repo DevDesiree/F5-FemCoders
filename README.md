@@ -71,9 +71,7 @@ En este repositorio guardare :
 - Ejercicios 7º Semana
 
     - Presentacion de Proyecto Grupal - P4 Oh my Fruits! : [Enlace Repositorio](https://github.com/DevDesiree/P4-OhMyFruits) o [Despliegue en Github Pages](https://devdesiree.github.io/P4-OhMyFruits/)
-
     - Ejercicio API N1 Dad Jokes : [Ejercicio](https://github.com/DevDesiree/F5-API_N1_Dad_Jokes) o [Despliegue en Github Pages](https://devdesiree.github.io/F5-API_N1_Dad_Jokes/)
-    
     - Ejercicio API N2 Github Profile : [Ejercicio](https://github.com/DevDesiree/F5-API_N2_Github_Profile) o [Despliegue en Github Pages](https://devdesiree.github.io/F5-API_N2_Github_Profile/)
 
 - Ejercicios 8º Semana
