@@ -28,6 +28,7 @@ En este repositorio guardare :
 - Async / Await y Promesas : 
 - Consumo de API's :
 - React :
+- PHP : 
 
 
 ## Ejercicios del Bootcamp FemCoders :D
@@ -85,7 +86,15 @@ En este repositorio guardare :
     - Ejercicio Kata Año Bisiesto : [Enlace Repositorio](https://github.com/DevDesiree/F5-Kata_Anio_Bisiesto)
     - Katas Codewars : [Enlace Perfil](https://www.codewars.com/users/DevDesiree)
 
+- Ejercicios 12º Semana
 
+    - Katas Codewars JS y repaso
+
+- Ejercicios 13º Semana 
+    
+    - Presentación de Proyecto Grupal - P6 Covid Tracker : [Enlace Repositorio](https://github.com/Kalypso89/P6-COVID-TRACKER) o [Despliegue en Vercel](https://p6-covid-tracker.vercel.app/)
+    - Ruta de investigación PHP : [Ejercicio](./EjerciciosF5/PHP/investigacion-php.md)
+    - Ejercicios T8 Primeros Pasos PHP : [Enlace Repositorio](https://github.com/DevDesiree/F5-First_Steps_PHP)
 ---
 ---
 
