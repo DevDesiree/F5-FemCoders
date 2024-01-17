@@ -1,4 +1,4 @@
-### Ruta de Investigación / Conceptos básicos:
+### Ruta de Investigación PHP / Conceptos básicos:
 
 ## Parte 1
 
