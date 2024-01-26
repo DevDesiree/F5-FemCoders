@@ -45,6 +45,13 @@ almacenar los datos necesarios y realizar consultas y manipulaciones a través d
   ```
 - Obtener el cliente que más compras ha realizado
 
+  ```sql
+  SELECT clientes.nombre, COUNT(ventas.id) AS total_compras
+  FROM clientes
+  JOIN ventas ON clientes.id = ventas.id_cliente
+  GROUP BY clientes.id, clientes.nombre
+  ORDER BY total_compras DESC
+  ```
 
 ## PARTE 3:
 - Insertar un nuevo libro en la base de datos.
@@ -70,28 +77,28 @@ almacenar los datos necesarios y realizar consultas y manipulaciones a través d
 ## PARTE 4
 - Haz el modelo relacional de las entidades
 
-![Entidad-Relacion](./Imagenes-Readme/entidad-relacion-tablas.png)
+  ![Entidad-Relacion](./Imagenes-Readme/entidad-relacion-tablas.png)
 
 
 ## PARTE 5 Desafío Extra:
 - Mostrar los libros más vendidos en orden descendente.
 
-```sql
-  SELECT libros.id, libros.titulo, COUNT(ventas.id) AS total_ventas
-  FROM libros
-  LEFT JOIN ventas ON libros.id = ventas.id_libro
-  GROUP BY libros.id, libros.titulo
-  ORDER BY total_ventas DESC;
-  ```
+  ```sql
+    SELECT libros.id, libros.titulo, COUNT(ventas.id) AS total_ventas
+    FROM libros
+    LEFT JOIN ventas ON libros.id = ventas.id_libro
+    GROUP BY libros.id, libros.titulo
+    ORDER BY total_ventas DESC;
+    ```
 
 - Calcular el total de ventas y el promedio de ventas diarias.
 
-```sql
-SELECT
-  SUM(cantidad) AS total_ventas,
-  AVG(cantidad) AS promedio_ventas_diarias
-FROM ventas;
-```
+  ```sql
+  SELECT
+    SUM(cantidad) AS total_ventas,
+    AVG(cantidad) AS promedio_ventas_diarias
+  FROM ventas;
+  ```
 
 ---
 *Ejercicios del Taller Primeros Pasos de F5-Femcoders 💜*
