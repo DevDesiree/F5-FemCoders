@@ -29,7 +29,8 @@ En este repositorio guardare :
 - Consumo de API's :
 - React :
 - PHP : 
-
+- MySQL :
+- Laravel : 
 
 ## Ejercicios del Bootcamp FemCoders :D
 
@@ -95,6 +96,21 @@ En este repositorio guardare :
     - Presentación de Proyecto Grupal - P6 Covid Tracker : [Enlace Repositorio](https://github.com/Kalypso89/P6-COVID-TRACKER) o [Despliegue en Vercel](https://p6-covid-tracker.vercel.app/)
     - Ruta de investigación PHP : [Ejercicio](./EjerciciosF5/PHP/investigacion-php.md)
     - Ejercicios T8 Primeros Pasos PHP : [Enlace Repositorio](https://github.com/DevDesiree/F5-First_Steps_PHP)
+
+- Ejercicios 14º Semana 
+    
+    - Proyecto Individual - P7 Juego Ahorcado PHP : [Enlace Repositorio](https://github.com/DevDesiree/P7-Juego_Del_Ahorcado) 
+    - Ejercicios T9 Primeros Primeros pasos SQL : [Enlace Repositorio](https://github.com/DevDesiree/P7-Juego_Del_Ahorcado) 
+
+- Ejercicios 15º Semana 
+
+    - Repaso CRUD PHP
+    - Proyecto Personal - Juego Piedra, Papel o Tijera : [Enlace Repositorio](https://github.com/DevDesiree/PHP_RockPapperScissors) 
+
+- Ejercicios 16º Semana
+
+    - Proyecto Individual - P8 ToDoList PHP : [Enlace Repositorio](https://github.com/DevDesiree/P8-ToDoList) 
+
 ---
 ---
 
