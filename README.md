@@ -111,6 +111,22 @@ En este repositorio guardare :
 
     - Proyecto Individual - P8 ToDoList PHP : [Enlace Repositorio](https://github.com/DevDesiree/P8-ToDoList) 
 
+- Ejercicios 17º Semana
+
+    - Ruta de Investigación POO : [Ejercicio](./EjerciciosF5/PHP/Ruta-Investigacion-POO/investigacion-poo.md)
+
+- Ejercicios 18º Semana
+
+    -  Presentación de Proyecto Grupal - P9 Gestor de Recursos : [Enlace Repositorio](https://github.com/DevDesiree/PHP-Laravel-Gestor_de_Recursos)
+    - Hackathon F5 - 5º Edición - Presentación Proyecto - [Enlace Repositorio](https://github.com/ChemaV/mascota)
+
+- Ejercicios 19º Semana
+
+    -  Presentación de Proyecto Grupal - P9 Gestor de Recursos : [Enlace Repositorio](https://github.com/DevDesiree/PHP-Laravel-Gestor_de_Recursos)
+
+- Ejercicios 20º Semana
+
+    -  Ejercicio Kata FizzBuzz PHP : [Enlace Repositorio](https://github.com/DevDesiree/PHP-Kata_FizzBuzz_Testing)
 ---
 ---
 
