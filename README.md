@@ -4,7 +4,7 @@ En este repositorio guardare :
 - Resumenes de MasterClass
 - Ejercicios del Bootcamp Factoría F5 FemCoders.
 
-## Resumenes y Herramientas utilizadas
+## 📕 Resumenes y Herramientas utilizadas
 
 - CMD : [Terminal o Consola](./Teoria/Terminal.md)
 - Figma : [Figma](./Teoria/Figma.md)
@@ -32,16 +32,16 @@ En este repositorio guardare :
 - MySQL :
 - Laravel : 
 
-## Ejercicios del Bootcamp FemCoders :D
+## 📚 Ejercicios del Bootcamp FemCoders :D
 
-- Ejercicios 1ª Semana
+-  Ejercicios 1ª Semana ✅
     - Ejercicios HTML : [Ejercicios](./HTML%20y%20CSS/Ejercicios%20HTML-CSS/2-Ejercicio%20HTML%20babysteps/ejercicio2.md)
     - Ejercicios HTML y CSS : [Ejercicios](./HTML%20y%20CSS/Ejercicios%20HTML-CSS/3-Ejercicio%20HTML%20y%20CSS3/ejercicio3.md)
     - Ejercicios CSS Grid - Utilizado en : [CSSGridGarden](https://cssgridgarden.com/#es)
     - Ejercicio CSS Flexbox - Utilizado en : [Flexboxfroggy](https://flexboxfroggy.com/#es)
     - Ejercicios Responsive-Adaptative Design : [Ejercicios](https://github.com/DevDesiree/F5-FemCoders/blob/0ef1ab798ab67baf88774c26ae1b35bdff255796/HTML%20y%20CSS/Ejercicios%20HTML-CSS/3-Ejercicio%20HTML%20y%20CSS3/Ejercicio1/styles.css#L53)
 
-- Ejercicios 2ª Semana
+-  Ejercicios 2ª Semana ✅
 
     - Presentacion de Proyecto Grupal - P1 The Crew [Enlace Repositorio](https://github.com/DevDesiree/P1-LasIdealistas) o [Despliegue en Vercel](https://p1-las-idealistas.vercel.app/)
     - Ejercicio Git/GitHub : [Ejercicio](https://github.com/DevDesiree)
@@ -49,7 +49,7 @@ En este repositorio guardare :
     - Ejercicios SaSS : [Ejercicios](./EjerciciosF5/SaSS/sass-class-intro/)
     
 
-- Ejercicios 3º Semana
+-  Ejercicios 3º Semana ✅
 
     - Presentacion de Proyecto Individual - P2 Replica Web [Enlace Repositorio](https://github.com/DevDesiree/P2-ReplicaWeb) o [Despliegue en Vercel](https://p2-replica-web.vercel.app/)
     - Ejercicio Ruta Investigacion JS : [Ejercicio](./EjerciciosF5/JS(JavaScript)/Investigacion-js.md)
@@ -57,79 +57,94 @@ En este repositorio guardare :
     - Pildora Boostrap : [Enlace a Pildora](./Pildora/Bootstrap/)
     - Ejercicio cities in the world : [Enlace Repositorio](./EjerciciosF5/Cities-in-the-world/) o [Despliegue en Github Pages](https://devdesiree.github.io/F5-Cities-in-the-world/)
 
-- Ejercicios 4º Semana
+-  Ejercicios 4º Semana ✅
 
     - Ejercicios T5 Primeros pasos con JS : [Ejercicios](./EjerciciosF5/JS(JavaScript)/T5-Primeros-pasos-js)
     - Ejercicios T6 Eventos Juego de la Moneda : [Enlace Repositorio](https://github.com/DevDesiree/Femcoders-T6-CoinGame) o [Despliegue en Github Pages](https://devdesiree.github.io/Femcoders-T6-CoinGame/)
 
-- Ejercicios 5º Semana
+-  Ejercicios 5º Semana ✅
 
     - Presentacion de Proyecto Individual - P3 Calculadora Financiera : [Enlace Repositorio](https://github.com/DevDesiree/P3-CalculadoraFinanciera) o [Despliegue en Vercel](https://p3-calculadora-financiera.vercel.app/)
 
-- Ejercicios 6º Semana
+-  Ejercicios 6º Semana ✅
 
     - Ejercicio Kata Fizzbuzz Jest : [Ejercicio](./EjerciciosF5/JS(JavaScript)/Testing-Jest)
 
-- Ejercicios 7º Semana
+-  Ejercicios 7º Semana ✅
 
     - Presentacion de Proyecto Grupal - P4 Oh my Fruits! : [Enlace Repositorio](https://github.com/DevDesiree/P4-OhMyFruits) o [Despliegue en Github Pages](https://devdesiree.github.io/P4-OhMyFruits/)
     - Ejercicio API N1 Dad Jokes : [Ejercicio](https://github.com/DevDesiree/F5-API_N1_Dad_Jokes) o [Despliegue en Github Pages](https://devdesiree.github.io/F5-API_N1_Dad_Jokes/)
     - Ejercicio API N2 Github Profile : [Ejercicio](https://github.com/DevDesiree/F5-API_N2_Github_Profile) o [Despliegue en Github Pages](https://devdesiree.github.io/F5-API_N2_Github_Profile/)
 
-- Ejercicios 8º Semana
+-  Ejercicios 8º Semana ✅
 
     - Ejercicio T7 REACT Migración tecnológica : [Enlace Repositorio](https://github.com/DevDesiree/P5-React_MigrationTech)
 
-- Ejercicios 9º, 10º, 11º Semana - (Periodo Vacacional Navidad - Repaso)
+-  Ejercicios 9º, 10º, 11º Semana - (Periodo Vacacional Navidad - Repaso) ✅
 
     - Retos AdventJS : [Enlace Repositorio](https://github.com/DevDesiree/AdventJS-2023)
     - Ejercicio API N3 Pokedex : [Enlace Repositorio](https://github.com/DevDesiree/F5-API_N3_Pokedex) o [Despliegue en Github Pages](https://devdesiree.github.io/F5-API_N3_Pokedex/)
     - Ejercicio Kata Año Bisiesto : [Enlace Repositorio](https://github.com/DevDesiree/F5-Kata_Anio_Bisiesto)
     - Katas Codewars : [Enlace Perfil](https://www.codewars.com/users/DevDesiree)
 
-- Ejercicios 12º Semana
+- Ejercicios 12º Semana ✅
 
     - Katas Codewars JS y repaso
 
-- Ejercicios 13º Semana 
+-  Ejercicios 13º Semana ✅
     
     - Presentación de Proyecto Grupal - P6 Covid Tracker : [Enlace Repositorio](https://github.com/Kalypso89/P6-COVID-TRACKER) o [Despliegue en Vercel](https://p6-covid-tracker.vercel.app/)
     - Ruta de investigación PHP : [Ejercicio](./EjerciciosF5/PHP/investigacion-php.md)
     - Ejercicios T8 Primeros Pasos PHP : [Enlace Repositorio](https://github.com/DevDesiree/F5-First_Steps_PHP)
 
-- Ejercicios 14º Semana 
+-  Ejercicios 14º Semana ✅
     
     - Proyecto Individual - P7 Juego Ahorcado PHP : [Enlace Repositorio](https://github.com/DevDesiree/P7-Juego_Del_Ahorcado) 
     - Ejercicios T9 Primeros Primeros pasos SQL : [Enlace Repositorio](https://github.com/DevDesiree/P7-Juego_Del_Ahorcado) 
 
-- Ejercicios 15º Semana 
+-  Ejercicios 15º Semana ✅
 
     - Repaso CRUD PHP
     - Proyecto Personal - Juego Piedra, Papel o Tijera : [Enlace Repositorio](https://github.com/DevDesiree/PHP_RockPapperScissors) 
 
-- Ejercicios 16º Semana
+-  Ejercicios 16º Semana ✅
 
     - Proyecto Individual - P8 ToDoList PHP : [Enlace Repositorio](https://github.com/DevDesiree/P8-ToDoList) 
 
-- Ejercicios 17º Semana
+-  Ejercicios 17º Semana ✅
 
     - Ruta de Investigación POO : [Ejercicio](./EjerciciosF5/PHP/Ruta-Investigacion-POO/investigacion-poo.md)
 
-- Ejercicios 18º Semana
+-  Ejercicios 18º Semana ✅
 
-    -  Presentación de Proyecto Grupal - P9 Gestor de Recursos : [Enlace Repositorio](https://github.com/DevDesiree/PHP-Laravel-Gestor_de_Recursos)
+    - Presentación de Proyecto Grupal - P9 Gestor de Recursos : [Enlace Repositorio](https://github.com/DevDesiree/PHP-Laravel-Gestor_de_Recursos)
     - Hackathon F5 - 5º Edición - Presentación Proyecto - [Enlace Repositorio](https://github.com/ChemaV/mascota)
 
-- Ejercicios 19º Semana
+-  Ejercicios 19º Semana ✅
 
     -  Presentación de Proyecto Grupal - P9 Gestor de Recursos : [Enlace Repositorio](https://github.com/DevDesiree/PHP-Laravel-Gestor_de_Recursos)
 
-- Ejercicios 20º Semana
+-  Ejercicios 20º Semana ✅
 
     -  Ejercicio Kata FizzBuzz PHP : [Enlace Repositorio](https://github.com/DevDesiree/PHP-Kata_FizzBuzz_Testing)
+
+-  Ejercicios 21º Semana ✅
+
+    - Desarrollo Proyecto Grupal P10
+    
+-  Ejercicios 22º Semana ✅
+
+    -  Presentación de Proyecto Grupal - P10 Marketplace Alimentación : [Enlace Repositorio FrontEnd](https://github.com/DevDesiree/P10-Nutricilious_FrontEnd) - [Enlace Repositorio BackEnd](https://github.com/NathaRuiz/P10-Nutricilious_BackEnd)
+    - Desarrollo Proyecto Individual Pedagógico P11
+
+-  Ejercicios 23º Semana ✅
+
+    - Desarrollo Proyecto Individual Pedagógico PE11
+
+-  Ejercicios 24º Semana ✅
+
+    - Presentación de Proyecto Individual Pedagógico - PE11 CryptoLog : [Enlace Repositorio FrontEnd](https://github.com/DevDesiree/PE11-CryptoLog_FrontEnd) - [Enlace Repositorio BackEnd](https://github.com/DevDesiree/PE11-CryptoLog_BackEnd)
+
 ---
 ---
-
-
-
 *Se ha utilizado esta guía para la realización y diseño de este Markdown y de todas las demás : https://www.markdownguide.org/cheat-sheet*
