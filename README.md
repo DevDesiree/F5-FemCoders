@@ -145,6 +145,23 @@ En este repositorio guardare :
 
     - Presentación de Proyecto Individual Pedagógico - PE11 CryptoLog : [Enlace Repositorio FrontEnd](https://github.com/DevDesiree/PE11-CryptoLog_FrontEnd) - [Enlace Repositorio BackEnd](https://github.com/DevDesiree/PE11-CryptoLog_BackEnd)
 
+-  Ejercicios 25º Semana ✅
+
+    - Desarrollo Proyecto Grupal Pedagógico PE12
+
+-  Ejercicios 26º Semana ✅
+
+    - Desarrollo Proyecto Grupal Pedagógico PE12
+
+-  Ejercicios 27º Semana ✅
+
+    - Desarrollo Proyecto Grupal Pedagógico PE12
+
+-  Ejercicios 28º Semana ✅
+
+    - Presentación Proyecto Grupal Pedagógico Final - PE12 La Sonrisa de Deva : [Enlace Repositorio FrontEnd](https://github.com/KalypsoDev/sonrisa-deva-front) - [Enlace Repositorio BackEnd](https://github.com/KalypsoDev/sonrisa-deva-back)
+    - Graduación Femcoders 💜
+
 ---
 ---
 *Se ha utilizado esta guía para la realización y diseño de este Markdown y de todas las demás : https://www.markdownguide.org/cheat-sheet*
