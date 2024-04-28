@@ -68,3 +68,8 @@ Los datos almacenados en `LocalStorage` persisten incluso cuando se recarga la p
 Si necesitas almacenar datos más grandes o necesitas un mayor control sobre el ciclo de vida de los datos, puedes considerar otras opciones como `sessionStorage` para datos de sesión, o IndexedDB para un almacenamiento más robusto y estructurado.
 
 Es importante tener en cuenta que los datos almacenados en `LocalStorage` están disponibles solo para el dominio y el protocolo específicos del sitio web que los creó. Además, debido a que los datos se almacenan en el lado del cliente, es importante tener cuidado con la seguridad y no almacenar información sensible en `LocalStorage`.
+
+---
+---
+
+[🏠 Volver al Home](../README.md)

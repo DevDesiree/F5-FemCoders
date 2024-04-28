@@ -92,3 +92,8 @@ Este modelo permite a los desarrolladores web interactuar con la página de mane
 - Cambiamos el contenido del elemento con el id "titulo" y cambiamos el color del primer elemento con la clase "parrafo".
 
 El DOM facilita la manipulación y actualización de la página web en tiempo real, permitiendo a los desarrolladores crear experiencias interactivas para los usuarios.
+
+---
+---
+
+[🏠 Volver al Home](../README.md)

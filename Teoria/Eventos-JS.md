@@ -70,3 +70,8 @@ document.getElementById('miFormulario').addEventListener('submit', function(even
 ```
 
 El manejo efectivo de eventos es fundamental para crear aplicaciones web interactivas y receptivas, permitiendo una experiencia de usuario más dinámica.
+
+---
+---
+
+[🏠 Volver al Home](../README.md)

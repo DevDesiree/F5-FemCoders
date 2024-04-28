@@ -155,3 +155,8 @@ console.log(persona);
 ```
 
 JSON proporciona una forma eficiente y legible de estructurar datos, lo que lo convierte en una opción popular en el desarrollo de software.
+
+---
+---
+
+[🏠 Volver al Home](../README.md)

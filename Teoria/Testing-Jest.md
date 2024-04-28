@@ -114,3 +114,8 @@ Después, ejecuta las pruebas con el comando:
 npm run test
 ```
 Con esto, Jest ejecutará las pruebas y te mostrará los resultados en la consola.
+
+---
+---
+
+[🏠 Volver al Home](../README.md)

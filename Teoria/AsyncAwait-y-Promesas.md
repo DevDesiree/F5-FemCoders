@@ -161,3 +161,8 @@ Esto hace que el código sea más fácil de entender y seguir, ya que parece que
 
 ## Por tanto...
 Las **Promesas** son como un contrato que garantiza que una tarea asincrónica se completará en el futuro, mientras que **Async/Await** es una forma más fácil y clara de escribir código asincrónico utilizando la misma idea de promesas, pero con una sintaxis más parecida a la programación sincrónica
+
+---
+---
+
+[🏠 Volver al Home](../README.md)
