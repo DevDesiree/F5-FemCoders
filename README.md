@@ -28,8 +28,8 @@ En este repositorio guardare :
 - Async / Await y Promesas : [Async Await y Promesas](./Teoria/AsyncAwait-y-Promesas.md)
 - Consumo de API's : [Consumo de APIs](./Teoria/Consumo-apis.md)
 - React : [React](./Teoria/React.md)
-- PHP : 
-- MySQL :
+- PHP : [PHP](./Teoria/Php.md)
+- MySQL : [MySQL](./Teoria/MySQL.md)
 - Laravel : 
 
 ## 📚 Ejercicios del Bootcamp FemCoders :D
