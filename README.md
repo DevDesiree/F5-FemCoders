@@ -26,8 +26,8 @@ En este repositorio guardare :
 - JSON : [JSON](./Teoria/JSON.md)
 - LocalStorage : [LocalStorage](./Teoria/LocalStorage.md)
 - Async / Await y Promesas : [Async Await y Promesas](./Teoria/AsyncAwait-y-Promesas.md)
-- Consumo de API's :
-- React :
+- Consumo de API's : [Consumo de APIs](./Teoria/Consumo-apis.md)
+- React : [React](./Teoria/React.md)
 - PHP : 
 - MySQL :
 - Laravel : 
