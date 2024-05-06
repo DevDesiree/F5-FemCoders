@@ -30,7 +30,7 @@ En este repositorio guardare :
 - React : [React](./Teoria/React.md)
 - PHP : [PHP](./Teoria/Php.md)
 - MySQL : [MySQL](./Teoria/MySQL.md)
-- Laravel : 
+- Laravel : [Laravel](./Teoria/Laravel.md)
 
 ## 📚 Ejercicios del Bootcamp FemCoders :D
 
