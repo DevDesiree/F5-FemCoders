@@ -162,6 +162,16 @@ En este repositorio guardare :
     - Presentación Proyecto Grupal Pedagógico Final - PE12 La Sonrisa de Deva : [Enlace Repositorio FrontEnd](https://github.com/KalypsoDev/sonrisa-deva-front) - [Enlace Repositorio BackEnd](https://github.com/KalypsoDev/sonrisa-deva-back)
     - Graduación Femcoders 💜
 
+## 👩‍💻 Autora
+
+| ![Desiree](https://avatars.githubusercontent.com/DevDesiree?s=50) |
+| --- |
+| **Desiree Sánchez** |
+| [GitHub](https://github.com/DevDesiree)|
+| [LinkedIn](https://www.linkedin.com/in/desisanchez/) |
+
+
+
 ---
 ---
 *Se ha utilizado esta guía para la realización y diseño de este Markdown y de todas las demás : https://www.markdownguide.org/cheat-sheet*
