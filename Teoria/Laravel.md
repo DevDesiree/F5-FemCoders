@@ -1,8 +1,8 @@
-## Laravel
+# Laravel
 
 Laravel es un popular **framework** de desarrollo web basado en PHP que sigue el patrón de diseño MVC (Modelo-Vista-Controlador).
 
-Ofrece una sintaxis elegante y expresiva que tiene como objetivo hacer que el desarrollo web sea más rápido y agradable, con características como una poderosa capa de ORM, enrutamiento simplificado, sistema de autenticación integrado y una gran cantidad de extensiones y paquetes adicionales.
+Ofrece una sintaxis elegante y expresiva que tiene como objetivo hacer que el desarrollo web sea más rápido y agradable, con características como una poderosa capa de **ORM**, enrutamiento simplificado, sistema de autenticación integrado y una gran cantidad de extensiones y paquetes adicionales.
 
 ## ✅ Características Principales
 
